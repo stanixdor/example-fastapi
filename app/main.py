@@ -26,7 +26,7 @@ app.include_router((vote.router))
 
 @app.get("/")
 def Root():
-    return {"message": "Best APIzzz"}
+    return {"message": "Best APIzzz :3"}
 
 
 
